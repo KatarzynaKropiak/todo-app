@@ -5,3 +5,5 @@ eat diner
 find the bug
 buy shoes
 give kiss
+Create app
+add case win-closed
