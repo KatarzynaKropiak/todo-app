@@ -1,9 +1,5 @@
-edit 5
-Take a shower
-Go Run
-eat breakfastfind the bug
-buy shoes
-give kiss
-buy plantschecking app
-checking app
-edit 8
+start
+buy
+write
+fix bug
+add
